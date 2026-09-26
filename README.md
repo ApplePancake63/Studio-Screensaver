@@ -1,5 +1,5 @@
 # 🫧 Studio Screensaver
-## About Module
+## About Plugin
 Do you remeber the Windows 7 Bubble Screensaver?
 
 You can have it in Roblox Studio now!
